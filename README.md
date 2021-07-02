@@ -1,4 +1,4 @@
-### Hello there ![Alt Text](https://github.com/SrijonMaster1/SrijonMaster1/blob/main/goodwave.gif)
+### Hello there ![Alt Text](https://github.com/SrijonMaster1/SrijonMaster1/blob/main/waving.gif)
 
 
 
