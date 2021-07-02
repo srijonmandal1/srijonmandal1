@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-! [alt text] (https://github.com/SrijonMaster1/SrijonMaster1/blob/main/Free_Sample_By_Wix.jpeg)
+![Screenshot](Free_Sample_By_Wix.jpeg)
 
 <!--
 **SrijonMaster1/SrijonMaster1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
