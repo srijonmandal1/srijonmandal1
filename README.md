@@ -1,4 +1,4 @@
-### Hello there [Screenshot](wave.gif)
+### Hello there
 
 
 
