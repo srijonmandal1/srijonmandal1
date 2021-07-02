@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 * 🌱 I’m currently learning C and C++.
 * 👯 I’m looking to collaborate on open source full stack web development projects.
 * 🤔 I’m looking for help with React and C.
-* 💬 Ask me about 
+* 💬 Ask me about Python!
 * 📫 How to reach me: [Discord](https://discords.com/bio/p/boltingmaster)
 * 😄 Pronouns: he/him
-* ⚡ Fun fact: ...
+* ⚡ Fun fact: I play the piano.
