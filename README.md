@@ -12,6 +12,6 @@ Here are some ideas to get you started: -->
 * 👯 I’m looking to collaborate on open source full stack web development projects.
 * 🤔 I’m looking for help with React and C.
 * 💬 Ask me about 
-* 📫 How to reach me: [Discord](dsc.bio/BoltingMaster)
+* 📫 How to reach me: [Discord](dsc.bio/boltingmaster)
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: ...
