@@ -18,6 +18,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijonMaster1&show_icons=true&theme=tokyonight) 
 
+![Srijon GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijonMaster1&theme=synthwave&show_icons=true&count_private=true “Srijon’ GutHub Stats”)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijonMaster1&theme=tokyonight)
 
 
