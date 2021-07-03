@@ -7,6 +7,7 @@
 #### I'm a programmer that mainly codes in Python. I love trying out new and creative ideas to create all sorts of projects.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijonMaster1&show_icons=true&theme=tokyonight) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijonMaster1&theme=tokyonight)
 
 <!--
