@@ -2,7 +2,7 @@
 
 # Hello There 
 
-### I'm a programmer that mainly codes in Python. I love trying out new and creative ideas to create all sorts of projects.
+#### I'm a programmer that mainly codes in Python. I love trying out new and creative ideas to create all sorts of projects.
 
 
 
