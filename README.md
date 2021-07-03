@@ -6,14 +6,6 @@
 
 #### I'm a programmer that mainly codes in Python. I love trying out new and creative ideas to create all sorts of projects.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijonMaster1&show_icons=true&theme=tokyonight) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijonMaster1&theme=tokyonight)
-
-<!--
-**SrijonMaster1/SrijonMaster1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
 
 * 🔭 I’m currently working on [Line Following](https://github.com/kethan1/Roborave/).
 * 🌱 I’m currently learning C and C++.
@@ -23,3 +15,13 @@ Here are some ideas to get you started: -->
 * 📫 How to reach me: [Discord](https://discords.com/bio/p/boltingmaster)
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I play the piano.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijonMaster1&show_icons=true&theme=tokyonight) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijonMaster1&theme=tokyonight)
+
+
+<!--
+**SrijonMaster1/SrijonMaster1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started: -->
