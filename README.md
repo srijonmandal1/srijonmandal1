@@ -1,6 +1,5 @@
 ![alt text](https://github.com/SrijonMaster1/SrijonMaster1/blob/main/computing.gif)
 
-
 # Hello There 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=SrijonMaster1.SrijonMaster1) [![Github](https://img.shields.io/github/followers/SrijonMaster1?label=Follow&style=social)](https://github.com/SrijonMaster1)
@@ -16,9 +15,7 @@
 * 💬 Ask me about Python!
 * 📫 How to reach me: [Discord](https://discords.com/bio/p/boltingmaster)
 * 😄 Pronouns: he/him
-* ⚡ Fun fact: I like space.
-
-![alt text](https://github.com/SrijonMaster1/SrijonMaster1/blob/main/spaceman.png)
+* ⚡ Fun fact: I like space. ![alt text](https://github.com/SrijonMaster1/SrijonMaster1/blob/main/spaceman.png)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijonMaster1&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijonMaster1&theme=tokyonight)
