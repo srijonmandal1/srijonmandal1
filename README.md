@@ -17,7 +17,7 @@
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I play the piano.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijonMaster1&show_icons=true&theme=tokyonight) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijonMaster1&show_icons=true&theme=tokyonight) ![alt text](https://github.com/SrijonMaster1/SrijonMaster1/blob/main/computing.gif)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijonMaster1&theme=tokyonight)
 
