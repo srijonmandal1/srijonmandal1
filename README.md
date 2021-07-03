@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/SrijonMaster1/SrijonMaster1/blob/main/waving.gif)
 
-![alt text](https://raw.githubusercontent.com/thisisvillegas/BigCommerceDevsCommunityImages/main/SpaceMan.png“SpaceMan Image”)
+![alt text](https://github.com/SrijonMaster1/SrijonMaster1/blob/main/spaceman.png)
 
 # Hello There 
 
