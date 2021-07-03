@@ -6,7 +6,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=SrijonMaster1.SrijonMaster1) [![Github](https://img.shields.io/github/followers/SrijonMaster1?label=Follow&style=social)](https://github.com/SrijonMaster1)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijonMaster1&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijonMaster1&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijonMaster1&theme=tokyonight)
 
 <!--
 **SrijonMaster1/SrijonMaster1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
