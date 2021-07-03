@@ -15,7 +15,7 @@
 * 📫 How to reach me: [Discord](https://discords.com/bio/p/boltingmaster)
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I like space. 
-* 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijonMaster1&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijonMaster1&theme=tokyonight)
 
