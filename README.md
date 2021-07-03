@@ -8,7 +8,7 @@
 * 🔭 I’m currently working on [Line Following](https://github.com/kethan1/Roborave/).
 * 🌱 I’m currently learning C and C++.
 * 👯 I’m looking to collaborate on open source full stack web development projects.
-* 🤔 I’m looking for help with React and C.
+* 🤔 I’m looking for help with Javascript and C.
 * 💬 Ask me about Python!
 * 📫 How to reach me: [Discord](https://discords.com/bio/p/boltingmaster)
 * 😄 Pronouns: he/him
