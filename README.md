@@ -4,6 +4,7 @@
 
 #### I'm a programmer that mainly codes in Python. I love trying out new and creative ideas to create all sorts of projects.
 
+![](https://visitor-badge.laobi.icu/badge?page_id=SrijonMaster1.SrijonMaster1)
 
 
 <!--
