@@ -16,6 +16,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijonMaster1&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijonMaster1&theme=tokyonight)
+[![Srijon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijonMaster1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![alt text](https://github.com/SrijonMaster1/SrijonMaster1/blob/main/computing.gif)
 
