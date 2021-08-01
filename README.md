@@ -1,7 +1,7 @@
 ![alt text](https://github.com/SrijonMaster1/SrijonMaster1/blob/main/spaceman.png)
 # Hello There 👋 -- [![Github](https://img.shields.io/github/followers/SrijonMaster1?label=Follow&style=social)](https://github.com/SrijonMaster1)
-![](https://visitor-badge.laobi.icu/badge?page_id=SrijonMaster1.SrijonMaster1) 
 
+![](https://visitor-badge.laobi.icu/badge?page_id=SrijonMaster1.SrijonMaster1) 
 ![](https://img.shields.io/badge/OS-Mac&nbsp;10-informational?style=flat&logo=windows&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Shell-Mac&nbsp;Terminal-informational?style=flat&logo=windows-terminal&logoColor=blue&color=0C7DBE)
