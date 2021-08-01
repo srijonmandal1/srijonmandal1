@@ -1,6 +1,7 @@
 ![alt text](https://github.com/SrijonMaster1/SrijonMaster1/blob/main/spaceman.png)
-# Hello There - ![](https://visitor-badge.laobi.icu/badge?page_id=SrijonMaster1.SrijonMaster1) [![Github](https://img.shields.io/github/followers/SrijonMaster1?label=Follow&style=social)](https://github.com/SrijonMaster1)
-
+# Hello There 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=SrijonMaster1.SrijonMaster1) 
+[![Github](https://img.shields.io/github/followers/SrijonMaster1?label=Follow&style=social)](https://github.com/SrijonMaster1)
 #### I'm a programmer that mainly codes in Python. I love trying out new and creative ideas to create all sorts of projects.
 
 
