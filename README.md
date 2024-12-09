@@ -21,8 +21,6 @@
 * * 📫 How to reach me: [Discord](https://discords.com/bio/p/boltingmaster)
 -->
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=srijonmandal1&theme=github)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srijonmandal1&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijonmandal1&theme=tokyonight)
 
