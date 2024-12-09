@@ -6,18 +6,20 @@
 ![](https://img.shields.io/badge/Editor-VS&nbsp;Code-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=0C7DBE)
 ![](https://img.shields.io/badge/Shell-&nbsp;Terminal-informational?style=flat&logo=windows-terminal&logoColor=blue&color=0C7DBE)
 
-#### I'm a programmer that mainly codes in Python. I love trying out new and creative ideas to create all sorts of projects.
+#### I'm a programmer who enjoys coding in Python, Java, and C++. 
 
 
 
-* 🔭 I’m currently working on [Line Following](https://github.com/kethan1/Roborave/).
-* 🌱 I’m currently learning C and C++.
-* 👯 I’m looking to collaborate on open source full stack web development projects.
-* 🤔 I’m looking for help with Javascript and C.
-* 💬 Ask me about Python!
-< * 📫 How to reach me: [Discord](https://discords.com/bio/p/boltingmaster)>
+* 🔭 I’m currently working on [Computational Biology](https://github.com/srijonmandal1/computational-analysis-precision-onchology).
+* 🌱 I’m currently learning R and X86.
+* 👯 I’m looking to collaborate on open source full stack web development and deep learning projects. 
+* 💬 Ask me about anything!
 * 😄 Pronouns: he/him
-<* ⚡ Fun fact: I like programming in space.>
+<!--
+* 🤔 I’m looking for help with Javascript and C.
+* ⚡ Fun fact: I like programming in space.
+* * 📫 How to reach me: [Discord](https://discords.com/bio/p/boltingmaster)
+-->
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=srijonmandal1&theme=github)
 
