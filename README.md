@@ -15,9 +15,9 @@
 * 👯 I’m looking to collaborate on open source full stack web development projects.
 * 🤔 I’m looking for help with Javascript and C.
 * 💬 Ask me about Python!
-* 📫 How to reach me: [Discord](https://discords.com/bio/p/boltingmaster)
+< * 📫 How to reach me: [Discord](https://discords.com/bio/p/boltingmaster)>
 * 😄 Pronouns: he/him
-* ⚡ Fun fact: I like programming in space.
+<* ⚡ Fun fact: I like programming in space.>
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=srijonmandal1&theme=github)
 
