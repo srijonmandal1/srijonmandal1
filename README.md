@@ -19,13 +19,13 @@
 * 🤔 I’m looking for help with Javascript and C.
 * ⚡ Fun fact: I like programming in space.
 * * 📫 How to reach me: [Discord](https://discords.com/bio/p/boltingmaster)
--->
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srijonmandal1&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijonmandal1&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijonmandal1&" alt="srijonmandal1" /></p>
-
+-->
 
 <!-- 
 
