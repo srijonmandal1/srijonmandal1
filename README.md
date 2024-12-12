@@ -1,5 +1,5 @@
 ![alt text](https://github.com/srijonmandal1/srijonmandal1/blob/main/spaceman.png)
-# Srijon Mandal Project's Portfolio
+# Srijon Mandal's Portfolio of Projects
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=srijonmandal1.srijonmandal1) 
 ![](https://img.shields.io/badge/OS-Mac&nbsp;10-informational?style=flat&logo=windows&logoColor=blue&color=0C7DBE)
