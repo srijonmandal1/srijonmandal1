@@ -24,6 +24,7 @@
 
 ### Project COMPANO: A multifaceted device offering virtual companionship and mental comfort through empathetic conversation, health reminders, and emergency alerts for elderly and lonely people. 
 [Link to Report](https://github.com/srijonmandal1/COMPANO/blob/main/COMPANO.pdf)
+
 [Link to Video](https://youtu.be/S7uttUuPh1E)
 
 ### Project ARCAID: Advanced Robot Car For Automated Item Delivery
@@ -42,7 +43,7 @@
 ### Project Global Warming Data Analysis
 [Link to Project](https://github.com/srijonmandal1/youngwonks-hackathon/blob/master/GlobalWarmingDataAnalysis.ipynb)
 
-### Project Game Archive: 
+### Project Game Archive
 [Link to Project](https://github.com/srijon-mandal/game-archive/blob/master/README.md)
 
 ![alt text](https://github.com/srijonmandal1/srijonmandal1/blob/main/computing.gif)
